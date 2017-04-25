@@ -1,0 +1,677 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0731</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0731.M.250.G.G</M>
+<M ID="B">D0731.M.250.G.A</M>
+<M ID="C">D0731.M.250.G.H</M>
+<M ID="D">D0731.M.250.G.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="2">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0714</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0714.M.250.D.I</M>
+<M ID="B">D0714.M.250.D.E</M>
+<M ID="C">D0714.M.250.D.F</M>
+<M ID="D">D0714.M.250.D.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="3">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0705</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0705.M.250.A.H</M>
+<M ID="B">D0705.M.250.A.G</M>
+<M ID="C">D0705.M.250.A.J</M>
+<M ID="D">D0705.M.250.A.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="4">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0701</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0701.M.250.A.A</M>
+<M ID="B">D0701.M.250.A.G</M>
+<M ID="C">D0701.M.250.A.I</M>
+<M ID="D">D0701.M.250.A.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="5">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0704</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0704.M.250.A.A</M>
+<M ID="B">D0704.M.250.A.H</M>
+<M ID="C">D0704.M.250.A.J</M>
+<M ID="D">D0704.M.250.A.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="6">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0717</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0717.M.250.D.I</M>
+<M ID="B">D0717.M.250.D.H</M>
+<M ID="C">D0717.M.250.D.C</M>
+<M ID="D">D0717.M.250.D.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="7">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0738</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0738.M.250.I.G</M>
+<M ID="B">D0738.M.250.I.H</M>
+<M ID="C">D0738.M.250.I.E</M>
+<M ID="D">D0738.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="8">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0742</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0742.M.250.J.J</M>
+<M ID="B">D0742.M.250.J.D</M>
+<M ID="C">D0742.M.250.J.E</M>
+<M ID="D">D0742.M.250.J.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="9">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0745</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0745.M.250.J.D</M>
+<M ID="B">D0745.M.250.J.C</M>
+<M ID="C">D0745.M.250.J.B</M>
+<M ID="D">D0745.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="10">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0712</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0712.M.250.C.D</M>
+<M ID="B">D0712.M.250.C.J</M>
+<M ID="C">D0712.M.250.C.G</M>
+<M ID="D">D0712.M.250.C.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="11">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0734</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0734.M.250.H.H</M>
+<M ID="B">D0734.M.250.H.F</M>
+<M ID="C">D0734.M.250.H.E</M>
+<M ID="D">D0734.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="12">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0730</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0730.M.250.G.B</M>
+<M ID="B">D0730.M.250.G.G</M>
+<M ID="C">D0730.M.250.G.A</M>
+<M ID="D">D0730.M.250.G.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="13">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0707</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0707.M.250.B.B</M>
+<M ID="B">D0707.M.250.B.H</M>
+<M ID="C">D0707.M.250.B.J</M>
+<M ID="D">D0707.M.250.B.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="14">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0706</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0706.M.250.B.B</M>
+<M ID="B">D0706.M.250.B.D</M>
+<M ID="C">D0706.M.250.B.I</M>
+<M ID="D">D0706.M.250.B.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="15">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0739</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0739.M.250.I.D</M>
+<M ID="B">D0739.M.250.I.G</M>
+<M ID="C">D0739.M.250.I.I</M>
+<M ID="D">D0739.M.250.I.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="16">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0741</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0741.M.250.I.B</M>
+<M ID="B">D0741.M.250.I.C</M>
+<M ID="C">D0741.M.250.I.D</M>
+<M ID="D">D0741.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="17">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0722</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0722.M.250.E.C</M>
+<M ID="B">D0722.M.250.E.E</M>
+<M ID="C">D0722.M.250.E.F</M>
+<M ID="D">D0722.M.250.E.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="18">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0737</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0737.M.250.I.G</M>
+<M ID="B">D0737.M.250.I.E</M>
+<M ID="C">D0737.M.250.I.I</M>
+<M ID="D">D0737.M.250.I.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="19">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0726</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0726.M.250.F.F</M>
+<M ID="B">D0726.M.250.F.A</M>
+<M ID="C">D0726.M.250.F.E</M>
+<M ID="D">D0726.M.250.F.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="20">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0708</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0708.M.250.B.B</M>
+<M ID="B">D0708.M.250.B.G</M>
+<M ID="C">D0708.M.250.B.J</M>
+<M ID="D">D0708.M.250.B.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="21">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0728</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0728.M.250.G.A</M>
+<M ID="B">D0728.M.250.G.H</M>
+<M ID="C">D0728.M.250.G.I</M>
+<M ID="D">D0728.M.250.G.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="22">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0716</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0716.M.250.D.D</M>
+<M ID="B">D0716.M.250.D.C</M>
+<M ID="C">D0716.M.250.D.E</M>
+<M ID="D">D0716.M.250.D.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="23">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0727</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0727.M.250.G.H</M>
+<M ID="B">D0727.M.250.G.A</M>
+<M ID="C">D0727.M.250.G.G</M>
+<M ID="D">D0727.M.250.G.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="24">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0724</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0724.M.250.F.B</M>
+<M ID="B">D0724.M.250.F.F</M>
+<M ID="C">D0724.M.250.F.C</M>
+<M ID="D">D0724.M.250.F.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="25">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0719</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0719.M.250.E.F</M>
+<M ID="B">D0719.M.250.E.E</M>
+<M ID="C">D0719.M.250.E.G</M>
+<M ID="D">D0719.M.250.E.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="26">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0720</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0720.M.250.E.E</M>
+<M ID="B">D0720.M.250.E.C</M>
+<M ID="C">D0720.M.250.E.A</M>
+<M ID="D">D0720.M.250.E.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="27">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0732</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0732.M.250.H.G</M>
+<M ID="B">D0732.M.250.H.J</M>
+<M ID="C">D0732.M.250.H.H</M>
+<M ID="D">D0732.M.250.H.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="28">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0740</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0740.M.250.I.H</M>
+<M ID="B">D0740.M.250.I.I</M>
+<M ID="C">D0740.M.250.I.J</M>
+<M ID="D">D0740.M.250.I.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="29">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0718</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0718.M.250.D.D</M>
+<M ID="B">D0718.M.250.D.F</M>
+<M ID="C">D0718.M.250.D.B</M>
+<M ID="D">D0718.M.250.D.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="30">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0725</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0725.M.250.F.F</M>
+<M ID="B">D0725.M.250.F.E</M>
+<M ID="C">D0725.M.250.F.B</M>
+<M ID="D">D0725.M.250.F.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="31">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0715</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0715.M.250.D.G</M>
+<M ID="B">D0715.M.250.D.B</M>
+<M ID="C">D0715.M.250.D.D</M>
+<M ID="D">D0715.M.250.D.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="32">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0733</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0733.M.250.H.I</M>
+<M ID="B">D0733.M.250.H.H</M>
+<M ID="C">D0733.M.250.H.F</M>
+<M ID="D">D0733.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="33">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0743</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0743.M.250.J.H</M>
+<M ID="B">D0743.M.250.J.B</M>
+<M ID="C">D0743.M.250.J.J</M>
+<M ID="D">D0743.M.250.J.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="34">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0729</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0729.M.250.G.A</M>
+<M ID="B">D0729.M.250.G.H</M>
+<M ID="C">D0729.M.250.G.J</M>
+<M ID="D">D0729.M.250.G.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="35">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0721</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0721.M.250.E.C</M>
+<M ID="B">D0721.M.250.E.G</M>
+<M ID="C">D0721.M.250.E.B</M>
+<M ID="D">D0721.M.250.E.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="36">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0736</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0736.M.250.H.H</M>
+<M ID="B">D0736.M.250.H.I</M>
+<M ID="C">D0736.M.250.H.G</M>
+<M ID="D">D0736.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="37">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0703</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0703.M.250.A.D</M>
+<M ID="B">D0703.M.250.A.J</M>
+<M ID="C">D0703.M.250.A.C</M>
+<M ID="D">D0703.M.250.A.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="38">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0723</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0723.M.250.F.F</M>
+<M ID="B">D0723.M.250.F.A</M>
+<M ID="C">D0723.M.250.F.C</M>
+<M ID="D">D0723.M.250.F.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="39">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0735</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0735.M.250.H.B</M>
+<M ID="B">D0735.M.250.H.J</M>
+<M ID="C">D0735.M.250.H.H</M>
+<M ID="D">D0735.M.250.H.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="40">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0709</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0709.M.250.B.F</M>
+<M ID="B">D0709.M.250.B.I</M>
+<M ID="C">D0709.M.250.B.D</M>
+<M ID="D">D0709.M.250.B.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="41">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0710</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0710.M.250.C.E</M>
+<M ID="B">D0710.M.250.C.D</M>
+<M ID="C">D0710.M.250.C.F</M>
+<M ID="D">D0710.M.250.C.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="42">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0744</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0744.M.250.J.E</M>
+<M ID="B">D0744.M.250.J.F</M>
+<M ID="C">D0744.M.250.J.C</M>
+<M ID="D">D0744.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="43">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0713</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0713.M.250.C.A</M>
+<M ID="B">D0713.M.250.C.C</M>
+<M ID="C">D0713.M.250.C.E</M>
+<M ID="D">D0713.M.250.C.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="44">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0702</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0702.M.250.A.I</M>
+<M ID="B">D0702.M.250.A.J</M>
+<M ID="C">D0702.M.250.A.H</M>
+<M ID="D">D0702.M.250.A.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="45">
+<MODEL-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/models/</MODEL-ROOT>
+<PEER-ROOT>/home/zixuan/PycharmProjects/doudou_c/genetic-swarm-MDS/genetic_summy_result</PEER-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+"</INPUT-FORMAT>
+<PEERS>
+<P ID="A">D0711</P>
+</PEERS>
+<MODELS>
+<M ID="A">D0711.M.250.C.A</M>
+<M ID="B">D0711.M.250.C.F</M>
+<M ID="C">D0711.M.250.C.C</M>
+<M ID="D">D0711.M.250.C.B</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>
